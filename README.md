@@ -31,9 +31,38 @@ VsCode me preguntó que debo hacer:
 Vamos a ver que pasa mientras tanto en la rama-1 que la he dejado pendiente
 En el mismo arhivo en las mismas lineas del archivo pero en la rama main estoy haciendo estos cambios rama-1
 en teoría estoy escribiendo en las mismas lineas de los resultados veamos una vez más
+en teoría estoy escribiendo en las mismas lineas de los resultados veamos una vez más
+en teoría estoy escribiendo en las mismas lineas de los resultados veamos una vez más
 
 
 
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacíoCambios en la linea 50 del readme de la rama-1
 Imediatamente despues de hacer el merge sobre un mismo archivo con conflicto en lineas tengo dos opciones 
 $ git merge --abort
 y me quedo con el estado incial antes de merge 
@@ -44,7 +73,14 @@ Por esta vez los aceptaré
 
 
 
+<<<<<<< HEAD
 
 
 
 Cambios en la linea 50 de reamde segun rama main
+=======
+# Vamos a trabajar a tres bandas o con tres ramas, para ver.
+
+
+Cambios en la linea 50 rama 2
+>>>>>>> rama-1y2
