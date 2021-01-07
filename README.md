@@ -18,3 +18,6 @@ $ git merge rama-1
 
 
 Hago cambios en la misma linea 20 pero en la rama-1
+
+En el mismo arhivo en las mismas lineas del archivo pero en la rama main estoy haciendo estos cambios rama-1
+en teoría estoy escribiendo en las mismas lineas de los resultados veamos una vez más
