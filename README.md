@@ -41,3 +41,10 @@ o
 $ git add .
 para aceptar los cambios y proceder.
 Por esta vez los aceptaré 
+
+
+
+
+
+
+Cambios en la linea 50 de reamde segun rama main
