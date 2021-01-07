@@ -11,3 +11,7 @@ $$ git checkout-b rama-1
 Cree la carpeta uno
 
 En este momento el commit está en la rama-1 
+vamos a fusionar la rama main con la rama-1
+$ git commit
+$ git checkout main
+$ git merge rama-1
