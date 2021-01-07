@@ -17,34 +17,63 @@ $ git checkout main
 $ git merge rama-1
 
 
+Me cambio a la rama main y hago estos cambios en la linea 20 de archivo README y vamos a hacer lo miso en la rama 1 en la misma linea para ver que pasa.
 Hago cambios en la misma linea 20 pero en la rama-1
 
+### Resultado:
+VsCode me preguntó que debo hacer:
+- Aceptarlos cambios de Main
+- Aceptarlos cambios de rama-1
+- Aceptar los dos cambios
+- Otra opción que no la revisé que era compararlos cambios, pendiente para el proximo merge
+
+
+Vamos a ver que pasa mientras tanto en la rama-1 que la he dejado pendiente
 En el mismo arhivo en las mismas lineas del archivo pero en la rama main estoy haciendo estos cambios rama-1
+en teoría estoy escribiendo en las mismas lineas de los resultados veamos una vez más
+en teoría estoy escribiendo en las mismas lineas de los resultados veamos una vez más
 en teoría estoy escribiendo en las mismas lineas de los resultados veamos una vez más
 
 
 
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacío
+cambios multicursor solo para no vr archivo vacíoCambios en la linea 50 del readme de la rama-1
+Imediatamente despues de hacer el merge sobre un mismo archivo con conflicto en lineas tengo dos opciones 
+$ git merge --abort
+y me quedo con el estado incial antes de merge 
+o
+$ git add .
+para aceptar los cambios y proceder.
+Por esta vez los aceptaré 
 
 
 
+# Vamos a trabajar a tres bandas o con tres ramas, para ver.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Cambios en la linea 50 del readme de la rama-1
+Cambios en la linea 50 rama 2
