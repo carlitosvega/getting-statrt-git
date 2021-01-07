@@ -29,3 +29,15 @@ VsCode me preguntó que debo hacer:
 
 
 Vamos a ver que pasa mientras tanto en la rama-1 que la he dejado pendiente
+En el mismo arhivo en las mismas lineas del archivo pero en la rama main estoy haciendo estos cambios rama-1
+en teoría estoy escribiendo en las mismas lineas de los resultados veamos una vez más
+
+
+
+Imediatamente despues de hacer el merge sobre un mismo archivo con conflicto en lineas tengo dos opciones 
+$ git merge --abort
+y me quedo con el estado incial antes de merge 
+o
+$ git add .
+para aceptar los cambios y proceder.
+Por esta vez los aceptaré 
