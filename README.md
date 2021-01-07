@@ -15,3 +15,6 @@ vamos a fusionar la rama main con la rama-1
 $ git commit
 $ git checkout main
 $ git merge rama-1
+
+
+Hago cambios en la misma linea 20 pero en la rama-1
