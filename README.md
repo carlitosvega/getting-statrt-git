@@ -18,3 +18,14 @@ $ git merge rama-1
 
 
 Me cambio a la rama main y hago estos cambios en la linea 20 de archivo README y vamos a hacer lo miso en la rama 1 en la misma linea para ver que pasa.
+Hago cambios en la misma linea 20 pero en la rama-1
+
+### Resultado:
+VsCode me preguntó que debo hacer:
+- Aceptarlos cambios de Main
+- Aceptarlos cambios de rama-1
+- Aceptar los dos cambios
+- Otra opción que no la revisé que era compararlos cambios, pendiente para el proximo merge
+
+
+Vamos a ver que pasa mientras tanto en la rama-1 que la he dejado pendiente
