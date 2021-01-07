@@ -8,4 +8,6 @@ Primero vamos a crear un esquema de carpetas para entender y hacer un simil entr
 Creamos esta línea en la rama 1
 $$ git checkout-b rama-1
 
-### Cree la carpeta uno 
+Cree la carpeta uno
+
+En este momento el commit está en la rama-1 
