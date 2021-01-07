@@ -41,3 +41,7 @@ o
 $ git add .
 para aceptar los cambios y proceder.
 Por esta vez los aceptaré 
+
+
+
+# Vamos a trabajar a tres bandas o con tres ramas, para ver.
